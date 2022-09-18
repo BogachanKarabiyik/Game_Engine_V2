@@ -5,7 +5,7 @@ class Sandbox : public Game_Engine::Application
 public:
 	Sandbox()
 	{
-
+		
 	}
 
 	~Sandbox()
